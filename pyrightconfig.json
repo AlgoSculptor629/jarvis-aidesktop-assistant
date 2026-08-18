@@ -1,0 +1,28 @@
+{
+  "include": [
+    "."
+  ],
+  "venvPath": ".",
+  "venv": ".venv",
+  "extraPaths": [
+    ".",
+    "core",
+    "handlers",
+    "ui",
+    ".venv/Lib/site-packages",
+    "C:/Users/Aryan Kushwaha/AppData/Local/Programs/Python/Python313/Lib/site-packages"
+  ],
+  "executionEnvironments": [
+    {
+      "root": ".",
+      "extraPaths": [
+        ".",
+        "core",
+        "handlers",
+        "ui",
+        ".venv/Lib/site-packages",
+        "C:/Users/Aryan Kushwaha/AppData/Local/Programs/Python/Python313/Lib/site-packages"
+      ]
+    }
+  ]
+}

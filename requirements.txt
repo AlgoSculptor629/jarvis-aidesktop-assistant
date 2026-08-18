@@ -1,0 +1,12 @@
+customtkinter>=6.0.0
+sounddevice>=0.5.0
+numpy>=1.26.0
+openwakeword>=0.6.0
+onnxruntime>=1.18.0
+PyAudio>=0.2.14
+pyttsx3>=2.99
+SpeechRecognition>=3.14.0
+requests>=2.31.0
+psutil>=5.9.0
+google-generativeai>=0.8.0
+pywin32>=306
